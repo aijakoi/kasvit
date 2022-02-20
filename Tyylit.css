@@ -20,7 +20,7 @@ h1 {
     font-size: 400%;
 }
 header.page-header{
-    background: url(../Nettisivut/Taustakuva2.png);
+    background: url(Taustakuva2.png);
 }
 .col-sm-7 {
    object-position: 50% 50%;
