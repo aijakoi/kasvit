@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(195, 238, 195);
+}
+.dropdown-menu {
+    background-color: rgb(184, 185, 92);
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+#menu1 {
+    background-color: rgb(184, 185, 92);
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+p {
+    font-size: 125%;
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace, serif;
+    font-size: 400%;
+}
+header.page-header{
+    background: url(../Nettisivut/Taustakuva2.png);
+}
+.col-sm-7 {
+   object-position: 50% 50%;
+}
+.bg-secondary {
+    font-size: 70%;
+    background-color: rgb(195, 238, 195);
+    color: black;
+}
+.allekirjoitus{
+    font-family: 'Brush Script MT', cursive;
+    font-size: 400%;
+}
+col-sm-8 {
+    text-align: center;
+}
